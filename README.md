@@ -7,7 +7,8 @@ Senior full-stack engineer based in Madison, Wisconsin. 10+ years building produ
 You can see one of my AI systems running today: the chatbot at [windsordevelopmentstudio.io](https://windsordevelopmentstudio.io/) lets you talk to either of my dogs, **Gus** or **Mitch**, each with a distinct personality powered by RAG and the Claude API.
  
 #### Recent writing
- 
+
+- [Tollgate: Why I Built a Confirmation Layer to use with AI agents (and Wrote My First Go Project to Do It)](https://windsordevelopmentstudio.io/post/tollgate-confirmation-layer-to-use-with-ai-agents) - A way for me to feel more comfortable working with AI agents.
 - [AI Isn't a Tool. It's the New Lumber.](https://windsordevelopmentstudio.io/post/ai-is-not-a-tool-its-the-new-lumber) — on treating LLMs as raw material rather than finished products
 - [Ruby Can Be Async Too (You're Just Not Using It)](https://windsordevelopmentstudio.io/post/perofmant-scalabe-async-ruby) — async patterns Rubyists tend to skip
 - [Building a RAG Chatbot with Pinecone and the Claude API](https://windsordevelopmentstudio.io/post/building-a-RAG-chatbot-with-pinecone-and-openAI) — how Gus and Mitch got their voices
