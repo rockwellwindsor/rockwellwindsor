@@ -1,6 +1,6 @@
 ### Hi, I'm Rockwell 👋
  
-Senior full-stack engineer based in Madison, Wisconsin. 10+ years building production Rails and Next.js applications for SaaS companies and government systems. Most recently maintaining SaaS applications as sole engineer at Levee Labs, and modernizing mission-critical APIs on VA Lighthouse that serve 100,000+ veterans daily.
+Senior full-stack engineer based in Madison, Wisconsin. 10+ years building production Rails and Next.js applications for SaaS companies. Most recently maintaining SaaS applications as sole engineer at Levee Labs, and modernizing mission-critical APIs that serve 100,000+ users daily.
  
 **What I'm working on now:** moving deeper into AI engineering. Bringing the same rigor I bring to backend infrastructure, evals, observability, cost tracking, the boring parts that make systems actually work, to LLM applications. Currently focused on RAG evaluation, agentic workflows, and multimodal systems.
  
