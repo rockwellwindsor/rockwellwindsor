@@ -20,7 +20,4 @@ You can see one of my AI systems running today: the chatbot at [windsordevelopme
 #### Find me
  
 🌐 [windsordevelopmentstudio.io](https://windsordevelopmentstudio.io/) · 📍 Madison, WI
- 
----
- 
-*puppy-evals — an evaluation harness for the chatbot above — is now open source.*
+
